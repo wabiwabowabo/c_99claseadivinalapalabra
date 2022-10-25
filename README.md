@@ -1,2 +1,2 @@
-# c_99claseadivinalapalabra
-nosenosenosenose
+# C99_1a4_JUEGO_ADIVINA_PALABRA_PLANTILLA
+C99_JUEGO_ADIVINA_PALABRA_PLANTILLA
